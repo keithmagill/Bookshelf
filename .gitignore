@@ -1,7 +1,7 @@
 .gradle
-/build/
+server/build/
 !gradle/wrapper/gradle-wrapper.jar
-/out/
+server/out/
 
 ### STS ###
 .apt_generated
